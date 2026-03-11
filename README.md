@@ -2,7 +2,7 @@
 
 ## **AI实战，谁是最佳？**
 
-<center><img src="https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E9%A6%96%E9%A1%B5%E6%8A%AC%E5%A4%B4%E7%94%A8%E5%9B%BE%EF%BC%88Homepage%20Title%20image%EF%BC%89/%E9%A6%96%E9%A1%B5%E6%8A%AC%E5%A4%B4%E7%94%A8%E5%9B%BE.PNG" height=90% width=90% /></center>
+<center><img src="其他素材（Miscellaneous）/首页抬头用图（Homepage Title image）/首页抬头用图.PNG" height=90% width=90% /></center>
 
 ## **简  介**
 
@@ -34,7 +34,7 @@
 
 各模块快捷导航如下
 
-* [项目网站]()
+* [项目网站](https://lucky2081.github.io/rwai/zh/)
 * [项目网站代码（Real-World-AI）](https://github.com/THU-ZJAI/Real-World-AI)：存放项目网站的代码，目前更新版本为2.1
 * [项目资源导航（Real-World-AI_Source）](https://github.com/THU-ZJAI/Real-World-AI_Source)：即本仓库
   * [最佳实践仓库（SOTA Repository）](https://github.com/THU-ZJAI/Real-World-AI_Source/tree/main/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E4%BB%93%E5%BA%93%EF%BC%88SOTA%20Repository%EF%BC%89)：本仓库子目录，存放RWAI网站各擂台中当前与归档解决方案所需的各类资源，如代码、数据、知识等文档
@@ -50,9 +50,9 @@
 
 我们会根据真实场景的需求和反馈，持续寻找和评选该场景下的“擂主”，即**​最佳实践​(**​​**SOTA)**​。
 
-各个擂台及其最佳实践详见下表：
+各个擂台及其最佳实践详见[项目网站](https://lucky2081.github.io/rwai/zh/arena/)
 
-想要分享您自己的最佳实践，加入人工智能方案开源建设中，欢迎[投稿与反馈]()。
+想要分享您自己的最佳实践，加入人工智能方案开源建设中，欢迎[投稿与反馈](https://lucky2081.github.io/rwai/zh/about/)。
 
 
 ## **FAQ**
@@ -119,16 +119,19 @@
 
 **​答：​**欢迎您的兴趣与意愿！目前有三种途径与我们合作：
 
-1. 您可以投稿，详见[投稿与反馈]()。
-2. 您如果有高度定制的需求或深度合作意愿，请[联系我们]()。
-3. 您也可以向我们提交反馈建议与意见，详见[联系我们]()。
+1. 您可以投稿，详见[投稿与反馈](https://lucky2081.github.io/rwai/zh/about/)。
+2. 您如果有高度定制的需求或深度合作意愿，请[联系我们](https://lucky2081.github.io/rwai/zh/about/)。
+3. 您也可以向我们提交反馈建议与意见，详见[联系我们](https://lucky2081.github.io/rwai/zh/about/)。
 
 ## **合作伙伴**
 
-目前提供应用场景、技术支持和参与共创的合作单位如下，期待更多企业、高校和组织加入，欢迎[联系我们]()。
-<left><img src="https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E6%B5%99%E6%B1%9F%E6%B8%85%E5%8D%8E%E9%95%BF%E4%B8%89%E9%99%A2.png" height=50% width=50% /></left>
+目前提供应用场景、技术支持和参与共创的合作单位如下，期待更多企业、高校和组织加入，欢迎[联系我们](https://lucky2081.github.io/rwai/zh/about/)。
 
-<left><img src="" height=50% width=50% /></left>
-
-
-
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/浙江清华长三院.png" height="100" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/盛虹集团.png" height="80" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/BISHENG.png" height="75" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/中国平安.png" height="80" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/中国南方电网.png" height="70" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/中小银行联盟.png" height="92" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/OxValue.AI.png" height="100" /></p>
+<p><img src="其他素材（Miscellaneous）/合作机构图标（Partners logo）/珠科数智.png" height="155" /></p>
