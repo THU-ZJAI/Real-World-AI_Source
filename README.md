@@ -2,7 +2,7 @@
 
 ## **AI实战，谁是最佳？**
 
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/tree/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E9%A6%96%E9%A1%B5%E6%8A%AC%E5%A4%B4%E7%94%A8%E5%9B%BE%EF%BC%88Homepage%20Title%20image%EF%BC%89)
+<center><img src="https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E9%A6%96%E9%A1%B5%E6%8A%AC%E5%A4%B4%E7%94%A8%E5%9B%BE%EF%BC%88Homepage%20Title%20image%EF%BC%89/%E9%A6%96%E9%A1%B5%E6%8A%AC%E5%A4%B4%E7%94%A8%E5%9B%BE.PNG" height=90% width=90% /></center>
 
 ## **简  介**
 
@@ -126,21 +126,9 @@
 ## **合作伙伴**
 
 目前提供应用场景、技术支持和参与共创的合作单位如下，期待更多企业、高校和组织加入，欢迎[联系我们]()。
+<left><img src="https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E6%B5%99%E6%B1%9F%E6%B8%85%E5%8D%8E%E9%95%BF%E4%B8%89%E9%99%A2.png" height=50% width=50% /></left>
 
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E6%B5%99%E6%B1%9F%E6%B8%85%E5%8D%8E%E9%95%BF%E4%B8%89%E9%99%A2.png)
+<left><img src="" height=50% width=50% /></left>
 
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E7%9B%9B%E8%99%B9%E9%9B%86%E5%9B%A2.png)
-
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/BISHENG.png)
-
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89.png)
-
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91.png)
-
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C%E8%81%94%E7%9B%9F.png)
-
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/OxValue.AI.png)
-
-![](https://github.com/THU-ZJAI/Real-World-AI_Source/blob/main/%E5%85%B6%E4%BB%96%E7%B4%A0%E6%9D%90%EF%BC%88Miscellaneous%EF%BC%89/%E5%90%88%E4%BD%9C%E6%9C%BA%E6%9E%84%E5%9B%BE%E6%A0%87%EF%BC%88Partners%20logo%EF%BC%89/%E7%8F%A0%E7%A7%91%E6%95%B0%E6%99%BA.png)
 
 
