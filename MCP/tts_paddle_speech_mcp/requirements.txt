@@ -1,0 +1,9 @@
+# 核心依赖
+loguru>=0.7.0
+python-dotenv>=1.0.0
+mcp>=1.0.0
+
+# PaddleSpeech 相关依赖
+paddlepaddle
+pytest-runner
+paddlespeech

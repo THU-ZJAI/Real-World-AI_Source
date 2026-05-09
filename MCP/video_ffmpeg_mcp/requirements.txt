@@ -1,0 +1,7 @@
+# 核心依赖
+loguru>=0.7.0
+python-dotenv>=1.0.0
+mcp>=1.0.0
+
+# FFmpeg 相关依赖
+ffmpeg-python>=0.2.0

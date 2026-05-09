@@ -1,0 +1,6 @@
+.env
+/logs/
+*.mov
+*.mp4
+*.wav
+*.mp3
