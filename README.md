@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://realworld-ai.io/en"><img alt="Website" src="https://img.shields.io/badge/🔗_项目官网-0088FF?style=flat-square&logoColor=white"></a>
+  <a href="https://realworld-ai.io/en"><img alt="Website" src="https://img.shields.io/badge/🔗_Website-0088FF?style=flat-square&logoColor=white"></a>
   <a href="https://github.com/THU-ZJAI/Real-World-AI_Source"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Real--World--AI-181717?style=flat-square&logo=github"></a>
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-32CD32?style=flat-square"></a>
 </p>
