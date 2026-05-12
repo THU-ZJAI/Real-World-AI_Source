@@ -128,7 +128,7 @@ As a team with long-term experience in industrial AI practice, we believe that t
 
 In industrial AI practice, we select representative and generalizable scenarios with clear interfaces to common systems, define business-effectiveness metrics for the scenario, and search for best practices. In different practices, we evaluate each metric through an open and verifiable process. As AGI evolves, we will increasingly try to use AI to solve this problem—and our current work is valuable data accumulation for future NL2Solution.
 
-Industrial AI application scenarios are long-tailed enough that their best practices differ from the single measurable metric SOTA in the academic sense. Industrial SOTA must be validated through practice in the industry. Therefore, in the early stages, we invite industry partner experts to test, select, and validate best practices with us, acting as a "referee" that is not absolutely correct but strives to be professional, fair, and grounded.
+Industrial AI application scenarios are long-tailed enough that their best practices differ from the single measurable metric SOTA in the academic sense. Industrial SOTA must be validated through practice in the industry, prioritizing practicality and stability over novelty. Therefore, in the early stages, we invite industry partner experts to test, select, and validate best practices with us, acting as a "referee" that is not absolutely correct but strives to be professional, fair, and grounded.
 
 ---
 
