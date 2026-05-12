@@ -151,14 +151,15 @@ The following organizations provide application scenarios, technical support, an
   <img src="Miscellaneous/Partners logo/盛虹集团.png" height="80" alt="盛虹集团">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/BISHENG.png" height="75" alt="BISHENG">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/中国平安.png" height="80" alt="中国平安">&nbsp;&nbsp;
-  <img src="Miscellaneous/Partners logo/中小银行联盟.png" height="92" alt="中小银行联盟">
+  <img src="Miscellaneous/Partners logo/中小银行联盟.png" height="85" alt="中小银行联盟">
 </p>
 
 <p align="center">
-  <img src="Miscellaneous/Partners logo/中国南方电网.png" height="70" alt="中国南方电网">&nbsp;&nbsp;
+  <img src="Miscellaneous/Partners logo/中国南方电网.png" height="80" alt="中国南方电网">&nbsp;&nbsp;
+  <img src="Miscellaneous/Partners logo/珠科数智.png" height="135" alt="珠科数智">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/OxValue.AI.png" height="100" alt="OxValue.AI">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/牛津大学高等研究院(苏州).png" height="130" alt="牛津大学高等研究院(苏州)">&nbsp;&nbsp;
-  <img src="Miscellaneous/Partners logo/珠科数智.png" height="155" alt="珠科数智">&nbsp;&nbsp;
+  <img src="Miscellaneous/Partners logo/CICAS.png" height="100" alt="CICAS">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/智向寰宇.jpg" height="160" alt="智向寰宇">
 </p>
 
