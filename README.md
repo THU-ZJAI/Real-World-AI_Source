@@ -158,6 +158,7 @@ The following organizations provide application scenarios, technical support, an
   <img src="Miscellaneous/Partners logo/中国南方电网.png" height="70" alt="中国南方电网">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/OxValue.AI.png" height="100" alt="OxValue.AI">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/牛津大学高等研究院(苏州).png" height="130" alt="牛津大学高等研究院(苏州)">&nbsp;&nbsp;
-  <img src="Miscellaneous/Partners logo/珠科数智.png" height="155" alt="珠科数智">
+  <img src="Miscellaneous/Partners logo/珠科数智.png" height="155" alt="珠科数智">&nbsp;&nbsp;
+  <img src="Miscellaneous/Partners logo/智向寰宇.jpg" height="160" alt="智向寰宇">
 </p>
 
