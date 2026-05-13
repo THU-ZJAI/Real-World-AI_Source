@@ -72,7 +72,9 @@ If you would like to share your own best practice and contribute to the open-sou
 
 **Q: What is Real-World AI?**
 
-Real-World AI is an academic open-source project focused on **real-world AI adoption**. We share best-practice cases for solving real-world AI adoption problems through open-source code, documentation, and related resources. The project is currently in beta.
+Real-World AI is an academic open-source project focused on **real-world AI adoption**. We share best-practice cases for solving real-world AI adoption problems through open-source code, documentation, and related resources.
+
+The project is currently in internal beta. Feedback and suggestions are welcome :)
 
 ---
 
@@ -83,7 +85,7 @@ Two of the most common questions in AI adoption are:
 * **How can I solve my scenario's problem with AI, and how can I quickly validate the results?**
 * **What is the best / most suitable solution for me?**
 
-We treat common real-world scenarios as "Arenas," continuously searching for best practices (SOTA) and crowning "Champions" for specific scenarios amid ever-evolving AI technologies. Through **Tsinghua Curation**, we reduce the cost of **technology selection and trial-and-error**.
+We treat common real-world scenarios as "Arenas," continuously searching for best practices (SOTA) and crowning "Champions" for specific scenarios amid ever-evolving AI technologies. Through "**Tsinghua Curation**", we reduce the cost of **technology selection and trial-and-error**.
 
 Real-world AI adoption criteria are complex; unlike academic benchmarks, there is no absolute score, so we do not rank—we only recognize best practices through comprehensive evaluation. Due to different deployment environments, a single arena may have multiple champions, such as an on-premise version and a cloud-service version.
 
@@ -100,7 +102,9 @@ The current AI open-source ecosystem is rich with code and experience sharing. H
 
 Therefore, AI technology and code alone are not enough. **Talk is cheap, code is not enough, PRACTICE is all we need.**
 
-We model and restore the **Human-in-the-Loop (HITL)** system in AI adoption, ensuring solutions are **verifiable, practical, and reproducible,** bridging the **last mile** of AI adoption. From an academic perspective, Real-World AI aims to work with the community on modelling real-world human-AI interactions (Modelling of Real-World HI-AI Interactions) and task datasets (Task Set), ultimately achieving intelligent real-world AI practice generation (NL2Practice).
+We model and restore the **Human-in-the-Loop (HITL) system** in AI adoption, ensuring solutions are **verifiable, practical, and reproducible,** bridging the "**last mile**" of AI adoption. From an academic perspective, Real-World AI aims to work with the community on modelling real-world human-AI interactions (Modelling of Real-World HI-AI Interactions) and task datasets (Task Set), ultimately achieving intelligent real-world AI practice generation (NL2Practice).
+
+A perhaps imperfect analogy: we are trying to build an ImageNet for real-world human-AI interaction. If we can accumulate enough real-world human-AI interaction data, perhaps we will be one step closer to building a "world model" piece by piece.
 
 ---
 
@@ -119,6 +123,8 @@ Real-World AI is designed to help as many people involved in AI adoption as poss
 * **Developers** can learn and replicate the actual effects and best cases of applying the latest technologies in different scenarios.
 
 Even without algorithm knowledge or coding skills, you can find many low-barrier, low-/no-code practice solutions. Each solution notes the skills and knowledge required for different user roles to help you understand how to quickly build an AI solution for your team.
+
+In addition, these solutions also cover steps that business, product, and other teams can reference, helping you practice the full process of taking a project from "idea" to "demo" to "approval" and "implementation."
 
 ---
 
