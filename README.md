@@ -154,6 +154,7 @@ The following organizations provide application scenarios, technical support, an
 
 <p align="center">
   <img src="Miscellaneous/Partners logo/浙江清华长三院.png" height="100" alt="浙江清华长三角研究院">&nbsp;&nbsp;
+  <img src="Miscellaneous/Partners logo/清华大学.jpg" height="95" alt="清华大学">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/盛虹集团.png" height="80" alt="盛虹集团">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/BISHENG.png" height="75" alt="BISHENG">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/中国平安.png" height="80" alt="中国平安">&nbsp;&nbsp;
