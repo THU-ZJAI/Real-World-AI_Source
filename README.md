@@ -169,4 +169,3 @@ The following organizations provide application scenarios, technical support, an
   <img src="Miscellaneous/Partners logo/CICAS.png" height="100" alt="CICAS">&nbsp;&nbsp;
   <img src="Miscellaneous/Partners logo/智向寰宇.jpg" height="160" alt="智向寰宇">
 </p>
-
