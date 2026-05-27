@@ -21,8 +21,7 @@
 * **Real-World AI (RWAI)** is an **open-source project** dedicated to finding the **best AI practices for real-world scenarios**, answering two questions:
   * **How can I solve my scenario's problem with AI, and how can I quickly validate the results?**
   * **What is the best / most suitable solution for me?**
-* Through the **Arena** model, we evaluate and recognize the **best practice (SOTA)** for each real-world scenario, leveraging the open-source community and open ecosystem to **accelerate AI adoption across industries**.
-* The project is currently in beta. Feedback and suggestions are welcome :)
+* Through the **Arena** model, we evaluate and recognize the **best practice (SOTA)** for each real-world scenario, leveraging the open-source community and open ecosystem to **accelerate AI adoption across industries**. Feedback and suggestions are welcome :)
 
 ---
 
@@ -72,9 +71,7 @@ If you would like to share your own best practice and contribute to the open-sou
 
 **Q: What is Real-World AI?**
 
-Real-World AI is an academic open-source project focused on **real-world AI adoption**. We share best-practice cases for solving real-world AI adoption problems through open-source code, documentation, and related resources.
-
-The project is currently in internal beta. Feedback and suggestions are welcome :)
+Real-World AI is an academic open-source project focused on **real-world AI adoption**. We share best-practice cases for solving real-world AI adoption problems through open-source code, documentation, and related resources. Feedback and suggestions are welcome :)
 
 ---
 
